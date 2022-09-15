@@ -1,3 +1,3 @@
 # example
-learn
+learn/n
 I love games
